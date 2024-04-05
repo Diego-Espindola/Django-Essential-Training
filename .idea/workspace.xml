@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04724b2-f901-4bd7-b402-12c8ced42f3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/templates/home/authorized.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/templates/home/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/home/urls.py" afterDir="false" />
+    <list default="true" id="b04724b2-f901-4bd7-b402-12c8ced42f3f" name="Changes" comment="Built-In User Management&#10;How Django Interacts with Databases&#10;Started creating a dynamic template">
+      <change afterPath="$PROJECT_DIR$/notes/templates/notes/404_error.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes/templates/notes/notes_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -42,10 +38,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,6 +68,28 @@
       <option name="presentableId" value="Default" />
       <updated>1712104075079</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initiating the Django Essential Training">
+      <option name="closed" value="true" />
+      <created>1712111469342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712111469342</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Built-In User Management&#10;How Django Interacts with Databases&#10;Started creating a dynamic template">
+      <option name="closed" value="true" />
+      <created>1712197597422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712197597422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initiating the Django Essential Training" />
+    <MESSAGE value="Built-In User Management&#10;How Django Interacts with Databases&#10;Started creating a dynamic template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Built-In User Management&#10;How Django Interacts with Databases&#10;Started creating a dynamic template" />
   </component>
 </project>
